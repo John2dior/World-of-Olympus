@@ -1,2 +1,2 @@
 # World-of-Olympus
-blue-olympus.github.io
+https://blue-olympus.github.io
